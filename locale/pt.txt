@@ -1,0 +1,53 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour Virtual - Super Hero
+
+### Title
+tour.name = Super Hero
+
+## Skin
+
+### Button
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Entrada
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Entrada
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Brinquedos
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Brinquedos
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Espaço Pula Pula
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Espaço Pula Pula
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Salão
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Salão
+
+## Media
+
+### Title
+panorama_74855BC9_7F02_168A_419E_C6354C4A77D0.label = 2 - Entrada
+panorama_755DDFB4_7F02_2E9A_41DA_24F4F09D2E54.label = 3 - Brinquedos
+panorama_755E0E46_7F02_31F9_418D_314106F74934.label = 3.2 - Brinquedos
+panorama_755E3DCD_7F02_728A_41BC_113F834E1F2B.label = 3.1 - Brinquedos
+panorama_755E5E0B_7F03_F18E_41D6_D47E0D7D3497.label = 4 - Salão
+panorama_755E9506_7F02_3386_41DD_F0C05B9DCCE7.label = 9 - Salão
+panorama_755F8BA3_7F02_76BF_41A6_6957ADDFE61C.label = 6 - Salão
+panorama_755FB715_7F02_FF9B_41DD_9178332422A7.label = 8 - Salão
+panorama_755FB9FA_7F02_328E_41D3_4D25A1D3107E.label = 7 - Salão
+panorama_755FFD0A_7F02_338E_41B6_74FD0FE157AA.label = 5 - Salão
+panorama_93B4287C_9827_9075_41D5_3BD9DC5D8A80.label = 1 - ENTRADA
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_959FB655_9823_B3B6_41DB_BF93EDB3598D.toolTip = ENTRADA
+
+## Action
+
+### URL
+LinkBehaviour_812BC2BF_986C_B4CF_41CB_21F132D01308.source = https://www.instagram.com/superhero.ligadajuspizza/
+LinkBehaviour_81A9D71D_986C_FDD1_41DF_9BC73738CD32.source = https://api.whatsapp.com/send?phone=5592984023822&text=Ol%C3%A1%2C%20vim%20pelo%20Google%2C%20poderia%20me%20ajudar.
+LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/3yotozMfVCi5CYKa9
+LinkBehaviour_83A3A262_982D_B470_41D4_870C9AAF002D.source = https://www.instagram.com/superhero.ligadajuspizza/
+LinkBehaviour_83A3A264_982D_B470_41DE_61A3F80CB462.source = https://goo.gl/maps/3yotozMfVCi5CYKa9
+LinkBehaviour_83A3F262_982D_B470_41DE_FF411FAFA307.source = wa.link/nfztev
