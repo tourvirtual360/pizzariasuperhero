@@ -1,5 +1,5 @@
 {
- "start_url": "index.htm",
+ "theme_color": "#000000",
  "name": "Super Hero",
  "description": "Tour Virtual - Super Hero",
  "background_color": "#000000",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "theme_color": "#000000"
+ "start_url": "index.htm",
+ "display": "fullscreen"
 }
